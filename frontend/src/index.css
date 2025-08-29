@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans+Hebrew:wght@100..800&display=swap');
+@import 'tailwindcss';
+/* body{
+  background-color: #f7f4ed;
+} */
+
+.notosans {
+  font-family: 'Noto Sans', sans-serif;
+}
+.playfair {
+  font-family: "Playfair Display", serif;
+}
+.playpen-sans-hebrew{
+  font-family: "Playpen Sans Hebrew", cursive;
+}
+textarea::-webkit-scrollbar {
+  display: none;
+}
